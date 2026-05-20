@@ -306,6 +306,8 @@ A Rotação de um ponto $P(x,y,z)$ no plano ocorre em relação as dimensões do
 
 ##### Rotação eixo X: Matriz Homogênea
 
+So muda aqui o eixo Y e Z, se eu quero fazer o inverso ai tem q trocar os sinais de seno, por padrão é anti-horario
+
 ```math
 \begin{bmatrix}
   x \\
